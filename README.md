@@ -41,7 +41,7 @@ As described by Les Wright in his video, the surface of the Ulbricht Sphere has 
 BaSO4 looks like powder. To apply it to the surface, you have to liquefy it and bind it so that it adheres to the surface.
 I tried the mixture reccomended by Les Wright but it dried poorly, cracked after drying, and did not adhere to the surface properly. It crumbled. 
 
-I then used a mixture from "Kremer Pigmente, Germany". It's also BaSO4, they called it Blanc Fix. Instead of PVA glue they used something called Klucel(TM) G (Hydroxypropylcellulose) and also demineralised water. This mixture adhered much better to the surface. After some trials i used a paintbrush to apply the mixture to the surface and the cut surface.
+I prepared the second Sphere before painting with adhesive primer. I then used a mixture from "Kremer Pigmente, Germany". It's also BaSO4, they called it Blanc Fix. Instead of PVA glue they use something called Klucel(TM) G (Hydroxypropylcellulose) and also demineralised water. This mixture adhered much better to the surface. After some trials i used a paintbrush to apply the mixture to the surface and the cut surface.
 
 <p align="center">
 <img src="Sphere1.png" width="250"> 
