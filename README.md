@@ -23,11 +23,11 @@ I also used hook'n loop tape for the Powerbank to prevent it from sliding out of
 <img src="PySpectroscope_fixture2.png" width="250"> 
 </p>
 <p align="center">
-<img src="PySpectroscope_fixture_img1.jpg" width="250"> 
+<img src="PySpectroscope_fixture_img3.jpg" width="250">
 <img src="PySpectroscope_fixture_img2.jpg" width="250">
 </p>
 <p align="center">
-<img src="PySpectroscope_fixture_img3.jpg" width="250"> 
+<img src="PySpectroscope_fixture_img1.jpg" width="250">
 <img src="PySpectroscope_fixture_img4.jpg" width="250"> 
 </p>
 
