@@ -21,8 +21,12 @@ I also used hook'n loop tape for the Powerbank to prevent it from sliding out of
 <p align="center">
 <img src="PySpectroscope_fixture1.png" width="250"> 
 <img src="PySpectroscope_fixture2.png" width="250"> 
+</p>
+<p align="center">
 <img src="PySpectroscope_fixture_img1.jpg" width="250"> 
-<img src="PySpectroscope_fixture_img2.jpg" width="250"> 
+<img src="PySpectroscope_fixture_img2.jpg" width="250">
+</p>
+<p align="center">
 <img src="PySpectroscope_fixture_img3.jpg" width="250"> 
 <img src="PySpectroscope_fixture_img4.jpg" width="250"> 
 </p>
@@ -42,6 +46,8 @@ I then used a mixture from "Kremer Pigmente, Germany". It's also BaSO4, they cal
 <p align="center">
 <img src="Sphere1.png" width="250"> 
 <img src="Sphere2.png" width="250"> 
+</p>
+<p align="center">
 <img src="Spectryx-fixture.png" width="250"> 
 <img src="Centering-Ring.png" width="250"> 
 </p>
