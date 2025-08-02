@@ -47,10 +47,6 @@ I then used a mixture from "Kremer Pigmente, Germany". It's also BaSO4, they cal
 <img src="Sphere1.png" width="250"> 
 <img src="Sphere2.png" width="250"> 
 </p>
-<p align="center">
-<img src="Spectryx-fixture.png" width="250"> 
-<img src="Centering-Ring.png" width="250"> 
-</p>
    
 ## 3. Holder for fiber optic sensor of the Spectryx Blue Box to fit in the Ulbricht Sphere
 
@@ -58,9 +54,13 @@ I desined an adapter for the fiber optic cable to fit it's end to the Ulbricht S
 I use 3 axis holders from Aliexpress to keep the laser modules in position. If you use Octave with the Spectryx Blue Box make sure to edit the file to point to the correct device.
 
 <p align="center">
+<img src="Spectryx-fixture.png" width="250"> 
+<img src="Centering-Ring.png" width="250"> 
+</p>
+<p align="center">
 <img src="Spectryx-Octave_UV.jpg" width="250"> 
 <img src="Spectryx-Octave_IR.jpg" width="250"> 
-<img src="Spectryx-Octave_IR2.jpg" width="250"> 
+<img src="Spectryx-Octave_IR2.png" width="250"> 
 </p>
  
 
