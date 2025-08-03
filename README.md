@@ -50,7 +50,7 @@ I prepared the second Sphere before painting with adhesive primer. I then used a
    
 ## 3. Holder for fiber optic sensor of the Spectryx Blue Box to fit in the Ulbricht Sphere
 
-I desined an adapter for the fiber optic cable to fit it's end to the Ulbricht Sphere exit point. I also designed adapters to center the laser to the entry point of the Sphere.
+I designed an adapter for the fiber optic cable to fit it's end to the Ulbricht Sphere exit point. I also designed adapters to center the laser to the entry point of the Sphere.
 I use 3 axis holders from Aliexpress to keep the laser modules in position. If you use Octave with the Spectryx Blue Box make sure to edit the file to point to the correct device.
 
 <p align="center">
