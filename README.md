@@ -72,6 +72,9 @@ I use 3 axis holders from Aliexpress to keep the laser modules in position. If y
 <img src="IMG_20250806_202331.jpg" width="250"> 
 </p>
 <p align="center">
+<img src="IR-LED-Test.jpg" width="250"> 
+</p>
+<p align="center">
 <img src="LED-Holder1.png" width="250"> 
 <img src="LED-Holder2.png" width="250"> 
 </p>
