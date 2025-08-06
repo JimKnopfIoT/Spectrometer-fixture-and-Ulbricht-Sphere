@@ -62,6 +62,12 @@ I use 3 axis holders from Aliexpress to keep the laser modules in position. If y
 <img src="Spectryx-Octave_IR.jpg" width="250"> 
 <img src="Spectryx-Octave_IR2.png" width="250"> 
 </p>
+
+Using the Ulbricht Sphere for IR LED doesn't work for me. The light emitted from the LED is too weak.
+Therefor i made a adjustable adapter for the Spectryx Blue Box Sensor. From bottom side the LED fits in. 
+The Topside fits the Fiber optic sensor. That also prevent other light reaching the sensor. 
+As you can see in the image below, the IR-LED emmitted light at 1,42 V/12,5mA at 958,3 nm (peak).
+
 <p align="center">
 <img src="IMG_20250806_204318.jpg" width="250"> 
 <img src="IMG_20250806_204335.jpg" width="250"> 
